@@ -1,6 +1,5 @@
 # vue_task
-## Demo:
-## http://kappa.cs.petrsu.ru/~dmitriev/vue_task/
+## Demo: http://kappa.cs.petrsu.ru/~dmitriev/vue_task/
 ## Project setup
 ```
 npm install
